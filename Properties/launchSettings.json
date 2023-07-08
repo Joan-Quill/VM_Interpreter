@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VM_Interpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "SimpleAdd.vm",
+      "workingDirectory": "C:\\Users\\JoJo\\source\\repos\\VM_Interpreter"
+    }
+  }
+}
